@@ -34,6 +34,7 @@
 	$(document).ready(function() {
 		var newNavButton = ''; // leave this empty
 
+		/* Add Buttons here, as many as you want :D */
 		newNavButton += '<li><a target="_blank" href="#"><span class="icon16 wpzoom-star"></span> <span class="txt">Custom Button 1</span></a></li>';
 		newNavButton += '<li><a target="_blank" href="#"><span class="icon16 wpzoom-star"></span> <span class="txt">Custom Button 1</span></a></li>';
 
