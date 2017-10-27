@@ -23,7 +23,7 @@
 
 		/* not recommended to edit if you don't know what you are doing */
 		var newNavButtonsStyle = '<style type="text/css">ul.navSub {background-color: #f4f4f4;border-right: 1px solid #bfbfbf;border-left: 1px solid #bfbfbf;border-bottom: 1px solid #bfbfbf;padding-left: 5px;list-style: none;padding-top: 5px;position: absolute;min-width: 100%;min-height: 100%;display: none;}a.newNavButtons:hover + ul.navSub {display:block;}ul.navSub:hover {display:block;}a.navSub:hover {background: none !important;box-shadow: none !important;width: 150px !important;position: relative;}</style>';
-		var newNavButtons = '<li><a a href="#" class="newNavButtons"><span aria-hidden="true" class="icon16 wpzoom-star"></span>'+newNavButtonsName+'<span class="hasDrop icon16 icomoon-icon-arrow-down-2"></span></a><ul class="navSub">'+newNavButtonsList+'</ul></li>';
+		var newNavButtons = '<li><a style="min-width:100px;text-align:center;" href="#" class="newNavButtons"><span aria-hidden="true" class="icon16 wpzoom-star"></span>'+newNavButtonsName+'<span class="hasDrop icon16 icomoon-icon-arrow-down-2"></span></a><ul class="navSub">'+newNavButtonsList+'</ul></li>';
 		$(newNavButtonsStyle).appendTo($('head'));
 		$(newNavButtons).appendTo($('.navbar-nav'));
 	});
