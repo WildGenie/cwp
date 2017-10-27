@@ -20,6 +20,8 @@
 <script type="text/javascript">
 	$(document).ready(function() {
 		var newButtons = ''; // leave empty
+		
+		/* Add Buttons here, as many as you want :D */
 		newButtons +='<li><a href="#your_link_here"><span aria-hidden="true" class="icon16 icomoon-icon-question"></span>Custom Menu 2</a></li>';
 		newButtons +='<li><a href="#your_link_here"><span aria-hidden="true" class="icon16 icomoon-icon-question"></span>Custom Menu 3</a></li>';
 		newButtons +='<li><a href="#your_link_here"><span aria-hidden="true" class="icon16 icomoon-icon-question"></span>Custom Menu 4</a></li>';
