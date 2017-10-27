@@ -7,14 +7,14 @@
 		/* Add SubButtons here, as many as you want :D */
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 1</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 2</a></li>';
-		newNavButtonsList += '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 3</a></li>';
+		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 3</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 4</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 5</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 6</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 7</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 8</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 9</a></li>';
-		newNavButtonsList += '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 10</a></li>';
+		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 10</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 11</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 12</a></li>';
 		newNavButtonsList	+= '<li><a class="navSub" href="#"><span class="icon16 icomoon-icon-arrow-right-3"></span>Sub Menu 13</a></li>';
