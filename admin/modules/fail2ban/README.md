@@ -1,5 +1,5 @@
 
-## CWP - Centos-WebPanel - Fail3Ban Bridge
+## CWP - Centos-WebPanel - Fail2Ban Bridge
 
 ###Installation:
 1) Download and save file fail2ban.php into: ```/usr/local/cwpsrv/htdocs/resources/admin/modules/fail2ban.php```
