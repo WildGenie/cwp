@@ -52,7 +52,7 @@ if(!empty($_POST['action']) AND !empty($_POST['task'])){
       pclose($proc);
       echo '</pre>';
       echo '<div class="alert alert-success">
-        Please edit config file and set next values:<br>
+        Please edit config (/etc/fail2ban/jail.conf) and set next values:<br>
 <pre>
 [DEFAULT]
 bantime = 3600
