@@ -15,3 +15,4 @@ enable = true
 4) Restart Fail2Ban to take effect
 
 ##### Copyright (c) 2018 Goran Margetić
+##### License: BSD 3-Clause License
