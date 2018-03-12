@@ -16,4 +16,5 @@ enable = true
 5) Restart Fail2Ban to take effect
 
 ##### Copyright (c) 2018 Goran Margetić
-##### License: BSD 3-Clause License
+##### CWP Fail2Ban Bridge License: BSD 3-Clause License
+##### Fail2Ban License: GNU General Public License v2.0 - [Fail2Ban](https://www.fail2ban.org)
