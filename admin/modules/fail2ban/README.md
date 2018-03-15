@@ -1,6 +1,9 @@
 
 ## CWP - Centos-WebPanel - Fail2Ban Bridge
 
+## Forgot to mention: Do not use this if you notice problems with CSF !!!
+- there is a solution to made them work together, CSF is capable to do more than Fail2Ban, but just to have a backup Fail2Ban is great for that
+
 ###Installation:
 1) Download and save file fail2ban.php into: ```/usr/local/cwpsrv/htdocs/resources/admin/modules/fail2ban.php```
 2) Login to CWP web interface as root and open url: ```HOSTNAME/admin/index.php?module=fail2ban```
