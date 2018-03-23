@@ -90,6 +90,7 @@ if($lines == null){
     }
     if (preg_match('/(active: inactive \(dead\))/', mb_strtolower($line))) {
       $running = false;
+      break;
     }
   }
 }
