@@ -28,7 +28,6 @@ Add next code to file: /usr/local/cwpsrv/htdocs/resources/admin/include/3rdparty
 
 ##
 - Installation will download and install transmission-cli, transmission-daemon, transmission-common and epel-repo.
-- Installation will create new line in 3rdparty.php so you can access module via CWP's side menu at "Developer Menu > Transmission"
 
 ##
 [Support Development and Learning with Small Donation](https://paypal.me/gogo1207)
