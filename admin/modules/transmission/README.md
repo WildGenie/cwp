@@ -19,9 +19,9 @@ Warning: This modul is created for my personal usage (also tested on CWP Centos7
 
 ## Add button to Developers menu:
 Add next code to file: /usr/local/cwpsrv/htdocs/resources/admin/include/3rdparty.php
- ˙˙˙
- <!-- START-Transmission --><li><a href="index.php?module=transmission"><span class="icon16 icomoon-icon-arrow-right-3"></span>Transmission</a></li><!-- END-Fail2Ban -->
- ˙˙˙
+ ```
+ <!-- START-Transmission --><li><a href="index.php?module=transmission"><span class="icon16 icomoon-icon-arrow-right-3"></span>Transmission</a></li><!-- END-Transmission -->
+ ```
 
 ## Updates:
   -
