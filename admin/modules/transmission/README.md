@@ -3,7 +3,7 @@ Transmission WebGui Bridge Module for Transmission to Centos-WebPanel
 ##
 Warning: This modul is created for my personal usage (also tested on CWP Centos7 x64) so there can be errors on different servers!
 ##
-[More info about speedtest-cli](https://github.com/sivel/speedtest-cli)
+[More info about Transmission](https://transmissionbt.com/)
 ##
 ## Installation using FTP:
   1) Upload transmission.php to CWP Server
