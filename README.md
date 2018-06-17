@@ -6,4 +6,7 @@ Code Parts from my custom CWP Modules/Plugins
 ##### All code Parts (including hooks) are released under [MIT License](LICENSE) but this license does not include modules/plugins themselfs!
 ###### All modules/plugins contains own license that can be found inside it's directory
 
+
+## If you need a custom built module please send me PM on [http://forum.centos-webpanel.com/profile/?u=19](CWP Forum)
+
 :+1: :shipit:
