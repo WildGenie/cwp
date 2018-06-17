@@ -1,5 +1,5 @@
 # Simple Symlink Finder Module for Centos-WebPanel (CWP)
-Symlink Finder WebGui Bridge Module for Symlink Finder to Centos-WebPanel
+Symlink Finder - List all symbolic links on your CWP server
 ##
 Warning: This modul is created for my personal usage (also tested on CWP Centos7 x64) so there can be errors on different servers!
 ##
