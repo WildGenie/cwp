@@ -16,7 +16,7 @@ Warning: This modul is created for my personal usage (also tested on CWP Centos7
 ## Add button to Developers menu:
 Add next code to file: /usr/local/cwpsrv/htdocs/resources/admin/include/3rdparty.php
  ```
- <!-- START-Symlink Finder --><li><a href="index.php?module=transmission"><span class="icon16 icomoon-icon-arrow-right-3"></span>Symlink Finder</a></li><!-- END-Symlink Finder -->
+ <!-- START-Symlink Finder --><li><a href="index.php?module=symlink_finder"><span class="icon16 icomoon-icon-arrow-right-3"></span>Symlink Finder</a></li><!-- END-Symlink Finder -->
  ```
 
 ## Updates:
