@@ -148,7 +148,7 @@ if(!$installed){
 }
 echo '</form>';
 /* be fair and don't remove next line, thank you */
-echo '<br><br><small>Donate <a href="https://paypal.me/gogo1207"><i aria-hidden="true" class="icomoon-icon-paypal"></i></a> | &copy;2017 <a style="color: #353535;" href="https://goran-margetic.iz.hr">GM</a></small>
+echo '<br><br><small>Donate <a href="https://paypal.me/gogo1207"><i aria-hidden="true" class="icomoon-icon-paypal"></i></a> | &copy;2017-'.date('Y').' <a style="color: #353535;" href="https://goran-margetic.iz.hr">GM</a></small>
 
 <script>
 var _domain = window.location.hostname;
