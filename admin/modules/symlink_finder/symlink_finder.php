@@ -67,4 +67,4 @@ echo '<form method="post">
 </script>
 
 <!-- be fair and don't remove next line, thank you -->
-<br><br><small>Donate <a href="https://paypal.me/gogo1207"><i aria-hidden="true" class="icomoon-icon-paypal"></i></a> | &copy;2017 <a style="color: #353535;" href="https://goran-margetic.iz.hr">GM</a></small>
+<br><br><small>Donate <a href="https://paypal.me/gogo1207"><i aria-hidden="true" class="icomoon-icon-paypal"></i></a> | &copy;2017-<?php echo date('Y');?> <a style="color: #353535;" href="https://goran-margetic.iz.hr">GM</a></small>
