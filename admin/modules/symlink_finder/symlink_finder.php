@@ -22,6 +22,9 @@ echo '<form method="post">
 ?>
 
 <link rel="stylesheet" href="design/3rdparty/datatables/css/jquery.dataTables.min.css">
+<style>
+  .col-id{width: 30px !important;}
+</style>
 <div class="content noPad clearfix">
     <table id="symlinks" cellpadding="0" cellspacing="0" border="0" class="responsive dynamicTable display table table-bordered" width="100%">
         <thead>
@@ -31,9 +34,6 @@ echo '<form method="post">
     </table>
 </div>
 <script type="text/javascript" src="design/3rdparty/datatables/js/jquery.dataTables.min.js"></script>
-<style>
-  .col-id{width: 30px !important;}
-</style>
 <script type="text/javascript">
   var jq = $.noConflict();
   jq(document).ready(function($){
